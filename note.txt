@@ -1,3 +1,27 @@
 * Package Installation : yarn add vitest jsdom @testing-library/react @testing-library/jest-dom -D
 * configure : package.json file
 * check : yarn test
+
+[vite specality : In Source Testing]
+[CLI : Explore Flags] 
+
+/*** Queries for
+*
+* 📢useless -> --reporter verbose   
+  📢verbose ?
+--reporter <name>	Select reporter: default, verbose, dot, junit, json, or a path to a custom reporter
+
+* 📢run - stop watch mode
+
+
+
+***/
+
+#Test Writing Pattern
+  - AAA Pattern
+  
+
+##Practice Task
+
+📢 const returnStrLength = (str) => str.length;
+

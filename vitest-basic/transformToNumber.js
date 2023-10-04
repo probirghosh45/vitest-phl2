@@ -1,5 +1,5 @@
 export function transformToNumber (value) {
-    return NaN;
+    // return NaN;
     return +value
 }
 
